@@ -25,6 +25,7 @@ html {
     top: 10%;
     left: 20%;
     background: url(images/menue.png) no-repeat 0px -60px;
+    z-index: 150;
     /* background-color: rgba(255, 192, 203, 0.815); */
 }
 .menue-child {
